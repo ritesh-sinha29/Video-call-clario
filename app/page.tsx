@@ -23,7 +23,7 @@ export default function Home() {
       {/* Gradient Heading */}
       <h1 className="text-4xl sm:text-5xl font-extrabold text-center leading-snug">
         <span className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-transparent">
-          Have a smooth meeting
+          Have smooth meeting
         </span>
         <br />
         <span className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-transparent">

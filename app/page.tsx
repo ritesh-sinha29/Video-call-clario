@@ -18,7 +18,7 @@ export default function Home() {
     <div className="w-full h-screen bg-gray-950 text-white flex flex-col items-center justify-center px-4">
       {/* Logo */}
       {/* Replace with your logo image */}
-      <img src="/logo.svg" alt="Logo" className="mb-8 w-32" />
+      <img src="/logo.png" alt="Logo" className="mb-8 w-32" />
 
       {/* Gradient Heading */}
       <h1 className="text-4xl sm:text-5xl font-extrabold text-center leading-snug">
@@ -27,14 +27,13 @@ export default function Home() {
         </span>
         <br />
         <span className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-transparent">
-          with team members
+          with your Mentor
         </span>
       </h1>
 
       {/* Description */}
       <p className="mt-6 max-w-2xl text-center text-gray-300 text-lg leading-relaxed">
-        Zegocloud is a global communication service provider which provides
-        developer-friendly and powerful SDK & APIs.
+        Clario — An AI-powered one-stop career guidance App
       </p>
 
       {/* Input Box */}

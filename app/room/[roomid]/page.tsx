@@ -137,6 +137,7 @@ const Room = ({ params }: { params: Promise<{ roomid: string }> | { roomid: stri
       style={{ width: "100vw", height: "100vh" }}
     />
   );
+  maxUsers: 2;
 };
 
 export default Room;
